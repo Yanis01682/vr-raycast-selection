@@ -11,7 +11,7 @@ Ray-casting selection and a button counter panel for Unity and Meta Quest 2.
 
 ## Requirements
 
-- Unity 2021.3
+- Unity 2021.3 or 2022.3
 - Oculus Integration with `OVRCameraRig`
 - Meta Quest 2
 
